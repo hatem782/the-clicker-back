@@ -1,6 +1,6 @@
 let players = { player1: null, player2: null };
 let position = 0;
-let step = 5;
+let step = 1;
 let winner = null;
 
 const Player1Click = () => {
