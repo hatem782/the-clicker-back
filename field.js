@@ -1,6 +1,6 @@
 let players = { player1: null, player2: null };
 let position = 0;
-let step = 1;
+let step = 2;
 let winner = null;
 
 const EmmitPosition = (io) => {
